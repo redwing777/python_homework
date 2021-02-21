@@ -1,0 +1,9 @@
+pytest==5.4.3
+assertpy==1.1
+virtualenv==1.6.4
+requests==2.24.0
+selenium==3.141.0
+webdriver_manager==3.2.2
+wrapt==1.12.1
+allure-pytest==2.8.15
+faker==4.1.1
